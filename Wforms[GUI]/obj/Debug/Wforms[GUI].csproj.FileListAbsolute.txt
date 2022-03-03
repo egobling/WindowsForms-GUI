@@ -1,0 +1,10 @@
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\bin\Debug\Wforms[GUI].exe.config
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\bin\Debug\Wforms[GUI].exe
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\bin\Debug\Wforms[GUI].pdb
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\obj\Debug\Wforms[GUI].csproj.AssemblyReference.cache
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\obj\Debug\Wforms_GUI_.Properties.Resources.resources
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\obj\Debug\Wforms[GUI].csproj.GenerateResource.cache
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\obj\Debug\Wforms[GUI].csproj.CoreCompileInputs.cache
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\obj\Debug\Wforms[GUI].exe
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\obj\Debug\Wforms[GUI].pdb
+C:\Users\erik.andren1\source\repos\Wforms[GUI]\Wforms[GUI]\obj\Debug\Wforms_GUI_.Form1.resources
